@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Expo specific directories
+.expo/
+.expo-shared/
+
+# Build directories
+android/app/build/
+ios/Pods/
+ios/build/
+dist/
+web-build/
+
+# Debug logs
+npm-debug.*
+*.log
+
+# Certificates and keys
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# macOS system files
+.DS_Store
+
+# Temporary files created by Metro
+.metro-health-check*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.swp
+
+# Packager files
+.packager-cache/
